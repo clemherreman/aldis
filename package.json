@@ -1,6 +1,6 @@
 {
   "name": "aldis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Geoffrey Bachelet <geoffrey@stage1.io>",
   "description": "A Docker log forwarder",
   "keywords": ["docker", "amqp", "logs"],
