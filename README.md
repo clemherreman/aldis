@@ -41,4 +41,4 @@ Messages will contain a JSON structure looking like this:
       type:        (int)       stream type (0 = stdin, 1 = stdout, 2 = stderr),
       length:      (int)       the byte length of the log line,
       content:     (string)    actual log line,
-      timestam:    (string)    the time at which aldis received the log line }
+      timestamp:   (string)    the time at which aldis received the log line }
